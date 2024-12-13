@@ -8,6 +8,6 @@ entries:
     digest: ea270351541cf201c4c21d93d61d81b10ba13f1fc96e5d3a636667cf819ff472
     name: ODP-cluster
     urls:
-    - https://raw.githubusercontent.com/sehajsandhu123/ODP_helm/main/ODP-cluster-1.0.0.tgz/ODP-cluster-1.0.0.tgz
+    - https://raw.githubusercontent.com/sehajsandhu123/ODP_helm/main/ODP-cluster-1.0.0.tgz
     version: 1.0.0
 generated: "2024-12-13T16:04:47.417524986+05:30"
