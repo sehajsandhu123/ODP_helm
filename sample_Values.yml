@@ -8,7 +8,7 @@
 #Python3 : sehajsandhu/odp_ub20_py311:v1
 
 
-image: sehajsandhu/odp-rocky-py2:v4
+image: sehajsandhu/odp_rl8_py311:v1
 nodes: 3                               # Upto 4 nodes
 components: ""                         # "AMBARI,HDFS,ZOOKEEPER,YARN,MAP-REDUCE,INFRA-SOLR,HIVE,TEZ,HBASE,SQOOP,RANGER,RANGER-KMS,DRUID,SPARK2,OOZIE"
 ambariVersion: ""
