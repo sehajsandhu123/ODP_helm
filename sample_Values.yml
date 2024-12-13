@@ -1,4 +1,5 @@
 # There are 4 images
+# Please use the one required by your ODP release
 #For Rocky 8 
 #Python2 : sehajsandhu/odp_rl8_py2:v1
 #Python3 : sehajsandhu/odp_rl8_py311:v1
