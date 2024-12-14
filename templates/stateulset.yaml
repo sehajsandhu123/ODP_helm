@@ -36,11 +36,11 @@ spec:
               readOnly: true
           resources:
             requests:
-              cpu: "2"
-              memory: "5Gi"
+              cpu: "{{ .Values.resources.requests.cpu }}" # "2"
+              memory: "{{ .Values.resources.requests.memory }}" # "5Gi"
             limits:
-              cpu: "4"
-              memory: "8Gi"
+              cpu: "{{ .Values.resources.limits.cpu }}" # "4"
+              memory: "{{ .Values.resources.limits.memory }}" # "8Gi"
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       volumes:
