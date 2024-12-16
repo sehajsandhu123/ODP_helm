@@ -19,6 +19,7 @@ ambariVersion: "2.7.9.0-1"
 ambariUrl: "http://10.100.6.15/ODP/rhel/Ambari-2.7.9.0-1/"      ## KEEP IN MIND TO REPLACE https://MIRROR URL with http://10.100.6.15
 odpVersion: "3.3.6.0-1"
 odpUrl: "http://10.100.6.15/ODP/rhel/3.3.6.0-1/"          
+utilsUrl: ""
 jdkVersion: "11"                         # 8 or 11
 kerberos: "Yes"                           # Yes or No
 

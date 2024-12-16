@@ -7,5 +7,5 @@ metadata:
 data:
   bashexec.sh: |
     #!/bin/bash
-    bash ~/basher.sh '{{ .Release.Name }}' '{{ .Values.jdkVersion }}' '{{ .Values.nodes }}' '{{ .Values.kerberos }}' '{{ .Values.components }}' '{{ .Values.odpVersion }}' '{{ .Values.ambariVersion }}' '{{ .Values.odpUrl }}' '{{ .Values.ambariUrl }}'
+    bash ~/basher.sh '{{ .Release.Name }}' '{{ .Values.jdkVersion }}' '{{ .Values.nodes }}' '{{ .Values.kerberos }}' '{{ .Values.components }}' '{{ .Values.odpVersion }}' '{{ .Values.ambariVersion }}' '{{ .Values.odpUrl }}' '{{ .Values.ambariUrl }}' '{{ .Values.utilsUrl }}'
 
