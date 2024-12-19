@@ -3,11 +3,11 @@ entries:
   ODP-cluster:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-12-18T17:31:47.87758955+05:30"
+    created: "2024-12-20T00:41:40.442884153+05:30"
     description: A Helm chart for deploying the custom cluster
-    digest: 5e2ea1a5aad68e15027d317cfcea931e3be6e0552aa52312e5ff1de7a7d5470e
+    digest: f4925fd16b0299e82c9b4abfbe1e98d9eaec8eb2899b94f593d1b5b917c708fe
     name: ODP-cluster
     urls:
     - https://raw.githubusercontent.com/sehajsandhu123/ODP_helm/main/ODP-cluster-1.0.0.tgz
     version: 1.0.0
-generated: "2024-12-18T17:31:47.87701269+05:30"
+generated: "2024-12-20T00:41:40.441730337+05:30"
