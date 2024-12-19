@@ -5,14 +5,14 @@
 #
 #For Rocky 8 
 #Python2 : sehajsandhu/odp_rl8_py2:v1
-#Python3 : sehajsandhu/odp_rl8_py311:v3
+#Python3 : sehajsandhu/odp_rl8_py311:v4
 #
 #For ubuntu 20
 #Python2 : sehajsandhu/odp_ub20_py2:v1
 #Python3 : sehajsandhu/odp_ub20_py311:v1
 
 
-image: sehajsandhu/odp_rl8_py311:v3
+image: sehajsandhu/odp_rl8_py311:v4
 nodes: 3                               # Upto 4 nodes
 components: ""                         # "AMBARI,HDFS,ZOOKEEPER,YARN,MAP-REDUCE,INFRA-SOLR,HIVE,TEZ,HBASE,SQOOP,RANGER,RANGER-KMS,DRUID,SPARK2,OOZIE"
 ambariVersion: "2.7.9.0-1"
